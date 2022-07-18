@@ -1,0 +1,202 @@
+.form-label {
+  font-size: 1.25rem;
+  font-family: "Fredoka", sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+#temp-button {
+  text-align: center;
+}
+
+#city-wrapper {
+  text-align: center;
+  padding-right: 60px;
+}
+
+#city-heading {
+  font-family: "Padauk", sans-serif;
+  text-transform: uppercase;
+  font-size: 55px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.main-temp {
+  font-family: "Padauk", sans-serif;
+  font-size: 60px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 2px;
+}
+
+.main {
+  font-size: 65px;
+  font-weight: lighter;
+  color: #ffc400;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.main-icon-sunny {
+  font-family: "Fredoka", sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: rgb(255, 196, 0);
+}
+
+.weather {
+  font-size: 35px;
+  color: lightskyblue;
+  margin-top: 5px;
+}
+
+.label-icon-cloudy {
+  font-family: "Fredoka", sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: lightskyblue;
+  margin-bottom: 20px;
+}
+
+.fasunny {
+  font-size: 35px;
+  color: #ffc400;
+  margin-top: 5px;
+}
+
+.label-icon-sunny {
+  font-family: "Fredoka", sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #ffc400;
+  margin-bottom: 20px;
+}
+
+.cloudsun {
+  font-size: 35px;
+  color: rgb(255, 196, 0);
+  margin-top: 5px;
+}
+
+.label-icon-cloudsun {
+  font-family: "Fredoka", sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #ffc400;
+  margin-bottom: 20px;
+}
+
+.cloudrain {
+  font-size: 35px;
+  color: #87cefa;
+  margin-top: 5px;
+}
+
+.label-icon-cloudrain {
+  font-family: "Fredoka", sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #87cefa;
+  margin-bottom: 20px;
+}
+
+.heavyrain {
+  font-size: 35px;
+  color: #bd98bdc9;
+  margin-top: 5px;
+}
+
+.label-icon-heavyrain {
+  font-family: "Fredoka", sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #bd98bdc9;
+  margin-bottom: 20px;
+}
+
+.small-heading {
+  font-family: "Fredoka", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  color: #305050;
+}
+.temp {
+  font-family: "Padauk", sans-serif;
+  /*font-weight: bold;*/
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+#conditions-wrapper {
+  text-align: right;
+  padding-right: 40px;
+  font-family: "Fredoka", sans-serif;
+  color: darkslategrey;
+  font-weight: lighter;
+}
+#conditions-heading {
+  font-family: "Padauk", sans-serif;
+  text-transform: uppercase;
+  text-align: right;
+  margin-bottom: 30px;
+  color: darkslategrey;
+}
+
+#second-row {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  color: darkslategrey;
+}
+h5.date {
+  font-family: "Fredoka", sans-serif;
+  font-style: italic;
+  color: darkslategray;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+#forecast-heading {
+  font-family: "Padauk", sans-serif;
+  font-weight: bold;
+}
+
+ul.content-forecast-details {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  padding-top: 0;
+  list-style-type: none;
+  line-height: 40px;
+}
+
+#favorites-heading {
+  font-family: "Padauk", sans-serif;
+  text-align: left;
+  font-weight: bold;
+}
+
+.day-names {
+  font-family: "Padauk", sans-serif;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-family: "Fredoka", sans-serif;
+}
+
+#favorites-radio-button {
+  text-align: right;
+}
