@@ -200,3 +200,13 @@ ul.content-forecast-details {
 #favorites-radio-button {
   text-align: right;
 }
+
+.github-link{
+  line-height: 30px;
+  font-family: "Fredoka", sans-serif;
+  font-weight: normal;
+  margin-bottom: 15px;
+  color: black;
+  margin: 0;
+  text-align: left;
+}
